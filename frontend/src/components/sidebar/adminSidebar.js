@@ -13,7 +13,7 @@ const AdminSidebar = () => {
           <div className="small-logo">
             <img src="/images/school-logo.jpeg" alt=""></img>
           </div>
-          <h2 id="greetings-small">P.N Academy</h2>
+          <h2 id="greetings-small">X Academy</h2>
         </div>
         <div className="sidebar-bottom">
           <div

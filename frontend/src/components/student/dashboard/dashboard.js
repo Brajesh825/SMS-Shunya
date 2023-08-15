@@ -13,7 +13,7 @@ const StudentDashboard = () => {
   return (
     <div tabIndex={-1} ref={inputRef} className="dashboard-main">
       <div className="dash-action-container">
-        <h2>Welcome to your dashboard , P.N Academy</h2>
+        <h2>Welcome to your dashboard , X Academy</h2>
         <div className="main-faculty">
           <div className="faculty-container">
             <img src="/images/director.jpeg" alt=""></img>
