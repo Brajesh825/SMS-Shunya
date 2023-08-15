@@ -1,0 +1,21 @@
+Name,Class,Email,MobileNumber,DateOfBirth,DateOfAdmission
+John Doe,9A,john.doe@example.com,1234567890,2005-03-15,2021-09-01
+Jane Smith,10B,jane.smith@example.com,9876543210,2004-07-22,2021-08-28
+Michael Johnson,8C,michael.johnson@example.com,5678901234,2006-11-10,2021-09-05
+Emily Brown,11A,emily.brown@example.com,8901234567,2003-02-28,2021-08-20
+Robert Lee,12B,robert.lee@example.com,6789012345,2002-09-12,2021-08-18
+Sarah Wilson,10A,sarah.wilson@example.com,4567890123,2004-06-05,2021-09-10
+David Davis,9B,david.davis@example.com,3456789012,2005-08-03,2021-08-22
+Karen Taylor,8A,karen.taylor@example.com,2345678901,2006-04-17,2021-08-30
+William Clark,11B,william.clark@example.com,9012345678,2003-12-25,2021-09-03
+Laura Martinez,12A,laura.martinez@example.com,7890123456,2002-11-08,2021-08-25
+Kevin Anderson,9C,kevin.anderson@example.com,6789012345,2005-09-30,2021-08-21
+Megan Adams,10A,megan.adams@example.com,5678901234,2004-05-18,2021-08-27
+Christopher Garcia,11C,christopher.garcia@example.com,4567890123,2003-08-09,2021-08-29
+Emma Hernandez,12B,emma.hernandez@example.com,3456789012,2002-07-07,2021-08-19
+Daniel Turner,8A,daniel.turner@example.com,2345678901,2006-02-14,2021-09-02
+Olivia Lewis,9B,olivia.lewis@example.com,9012345678,2005-04-29,2021-09-06
+Andrew Ramirez,10C,andrew.ramirez@example.com,7890123456,2004-10-31,2021-09-04
+Sophia Scott,11B,sophia.scott@example.com,6789012345,2003-03-20,2021-08-31
+James Reed,12A,james.reed@example.com,5678901234,2002-12-02,2021-08-24
+Isabella Jenkins,8B,isabella.jenkins@example.com,4567890123,2006-06-11,2021-08-23

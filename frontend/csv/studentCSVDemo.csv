@@ -1,0 +1,21 @@
+Name,Class,Email,MobileNumber,DateOfBirth,DateOfAdmission,Gender
+John Doe,Class 1,johndoe@example.com,1234567890,15-03-2005,01-06-2021,Male
+Jane Smith,Class 1,janesmith@example.com,9876543210,23-08-2006,15-07-2021,Female
+Michael Johnson,Class 1,michaeljohnson@example.com,4567890123,02-11-2004,20-05-2021,Male
+Emily Brown,Class 1,emilybrown@example.com,7890123456,10-02-2007,05-09-2021,Female
+David Lee,Class 1,davidlee@example.com,2345678901,30-06-2003,30-07-2021,Male
+Sophia Taylor,Class 1,sophiataylor@example.com,8901234567,12-04-2005,10-08-2021,Female
+Robert Wilson,Class 1,robertwilson@example.com,5678901234,18-09-2006,20-06-2021,Male
+Olivia Miller,Class 1,oliviamiller@example.com,9012345678,29-12-2004,01-09-2021,Female
+Daniel Anderson,Class 1,danielanderson@example.com,6789012345,25-03-2007,10-06-2021,Male
+Ava Thomas,Class 1,avathomas@example.com,3456789012,05-07-2003,05-05-2021,Female
+William Martin,Class 1,williammartin@example.com,7890123456,19-01-2005,12-07-2021,Male
+Emma Martinez,Class 1,emmamartinez@example.com,2345678901,17-11-2006,03-06-2021,Female
+Michael Thomas,Class 1,michaelthomas@example.com,8901234567,21-02-2004,01-08-2021,Male
+Sophia Wilson,Class 1,sophiawilson@example.com,5678901234,08-09-2005,20-06-2021,Female
+James Brown,Class 1,jamesbrown@example.com,9012345678,29-12-2003,01-09-2021,Male
+Olivia Lee,Class 1,olivialee@example.com,6789012345,25-03-2006,10-06-2021,Female
+Daniel Taylor,Class 1,danieltaylor@example.com,3456789012,05-07-2004,05-05-2021,Male
+Ava Wilson,Class 1,avawilson@example.com,7890123456,19-01-2006,12-07-2021,Female
+William Anderson,Class 1,williamanderson@example.com,2345678901,17-11-2004,03-06-2021,Male
+Emma Brown,Class 1,emmabrown@example.com,8901234567,21-02-2005,01-08-2021,Female
