@@ -56,9 +56,7 @@ const AdminLoginForm = () => {
       const { success, message } = data;
       if (success) {
         handleSuccess(message);
-        setTimeout(() => {
-          navigate("/admin/dashboard");
-        }, 500);
+          navigate("/admin/dashboard");        
       } else {
         handleError(message);
       }
